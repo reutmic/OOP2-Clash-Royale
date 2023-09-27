@@ -1,4 +1,13 @@
-# OOP2-Clash-Royale
+# OOP2 - Clash Royale - Project
+Roni Cohen, Reut Michaeli.
+_________________
+[Link to the video of the project](https://www.youtube.com/watch?v=oAIK8vMrF2E) .
+_________________
+We have built the game Clash Royale as the final project of OOP2 course, using C++ and SFML.
+This is a strategy game, where the player's goal is to destroy the computer's towers successfully, by using different cards (Troop and spell cards),
+while attacking and defending against the computer, which also aims to destroy the player's towers.
+There are four arenas (levels) in the game, and we created two difficulty level algorithms for the computer: easy (arenas 1,2) and hard (arenas 3,4).
+After completing an arena, the player unlocks a new card, and in the "Collection" page, they can add it and make changes to their deck, and upgrade unlocked cards.
 
 כותרת:
 ===========================================================
